@@ -4,7 +4,7 @@
 
 >Trilha Explorer
 
-Projeto construído do evento evento Next Level Meek da Rocketseat.
+Projeto construído do evento Next Level Meek da Rocketseat.
 
 [Clique aqui para acessar](https://wmsantz.github.io/nlw-esports-explorer/)
 
